@@ -35,3 +35,4 @@ module.exports = domainName;
 console.log(domainName('http://google.co.jp'));
  //console.log(domainName('www.xakep.ru'));
 // console.log(domainName('https://www.cnet.com'));
+//https://www.codewars.com/kata/514a024011ea4fb54200004b/discuss
