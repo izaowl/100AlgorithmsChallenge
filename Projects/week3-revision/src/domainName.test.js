@@ -1,0 +1,1 @@
+const domainName = require('../src/domainName');
